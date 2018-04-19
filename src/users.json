@@ -1,0 +1,247 @@
+{
+  "users": [
+    {
+      "firstName": "Vache",
+      "lastName": "khanoyan",
+      "eMail": "aaa@gmail.com",
+      "count": 4,
+      "id": 1
+    },
+    {
+      "firstName": "Vazgen",
+      "lastName": "Hakobyan",
+      "eMail": "bbb@gmail.com",
+      "count": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Armen",
+      "lastName": "Azatyan",
+      "email": "ddd@mail.ru",
+      "count": 4,
+      "id": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "title": "Which of the following type of variable is visible everywhere in your JavaScript code?",
+      "answer": [
+        {
+          "correct": true,
+          "title": "global variable"
+        },
+        {
+          "correct": false,
+          "title": "local variable"
+        },
+        {
+          "correct": false,
+          "title": "both of the above"
+        },
+        {
+          "correct": false,
+          "title": "none of the above"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Which of the following type of variable takes precedence over other if names are same?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "global variable"
+        },
+        {
+          "correct": true,
+          "title": "local variable"
+        },
+        {
+          "correct": false,
+          "title": "Both of the above"
+        },
+        {
+          "correct": false,
+          "title": "None of the above"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "toExponential()"
+        },
+        {
+          "correct": true,
+          "title": "toFixed()"
+        },
+        {
+          "correct": false,
+          "title": "toPrecision()"
+        },
+        {
+          "correct": false,
+          "title": "toLocaleString()"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Which of the following function of Number object returns a string value version of the current number in a format that may vary according to a browser's locale settings.?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "toExponential()"
+        },
+        {
+          "correct": false,
+          "title": "toFixed()"
+        },
+        {
+          "correct": true,
+          "title": "toLocaleString()"
+        },
+        {
+          "correct": false,
+          "title": "toString()"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Which of the following function of String object returns the index within the calling String object of the last occurrence of the specified value?",
+      "answer": [
+        {
+          "correct": true,
+          "title": "lastIndexOf()"
+        },
+        {
+          "correct": false,
+          "title": "search()"
+        },
+        {
+          "correct": false,
+          "title": "substr()"
+        },
+        {
+          "correct": false,
+          "title": "indexOf()"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Which of the following function of String object returns the calling string value converted to upper case?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "toLocaleUpperCase()"
+        },
+        {
+          "correct": true,
+          "title": "toUpperCase()"
+        },
+        {
+          "correct": false,
+          "title": "toString()"
+        },
+        {
+          "correct": false,
+          "title": "substring()"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Which of the following function of Array object returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "indexOf()"
+        },
+        {
+          "correct": false,
+          "title": "join()"
+        },
+        {
+          "correct": true,
+          "title": "lastIndexOf()"
+        },
+        {
+          "correct": false,
+          "title": "map()"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Which of the following function of Array object adds and/or removes elements from an array?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "toSource()"
+        },
+        {
+          "correct": false,
+          "title": "sort()"
+        },
+        {
+          "correct": true,
+          "title": "splice()"
+        },
+        {
+          "correct": false,
+          "title": "unshift"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Inside which HTML element do we put the JavaScript?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "<js>"
+        },
+        {
+          "correct": false,
+          "title": "<scripting>"
+        },
+        {
+          "correct": true,
+          "title": "<script>"
+        },
+        {
+          "correct": false,
+          "title": "<javascript>"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "How do you write 'Hello World' in an alert box?",
+      "answer": [
+        {
+          "correct": false,
+          "title": "msgBox('Hello World')"
+        },
+        {
+          "correct": false,
+          "title": "alertBox('Hello World')"
+        },
+        {
+          "correct": false,
+          "title": "msg('Hello World)"
+        },
+        {
+          "correct": true,
+          "title": "alert('Hello World')"
+        }
+      ]
+    }
+  ]
+}
